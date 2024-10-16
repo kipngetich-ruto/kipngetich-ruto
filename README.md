@@ -30,5 +30,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/github/followers/kipngetich-ruto?logo=github&style=for-the-badge&color=brightgreen&labelColor=1c1917" />
 </a>
 <a href="https://www.x.com/ruto365" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/followers/ruto365?logo=twitter&style=for-the-badge&color=brightgreen&labelColor=1c1917"/>
+    <img src="https://img.shields.io/twitter/follow/ruto365?logo=twitter&labelColor=1c1917"/>
 </a>
