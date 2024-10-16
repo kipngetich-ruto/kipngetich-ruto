@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 * 🤝  I'm open for job opportunities and collaboration for both Front-End and Back-End
 
 <a href="https://www.github.com/kipngetich-ruto" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kipngetich-ruto?logo=github&style=for-the-badge&color=brightgreen&labelColor=1c1917" /></a><a href="https://www.x.com/ruto365" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ruto365?logo=twitter&style=for-the-badge&color=brightgreen&labelColor=1c1917"
+src="https://img.shields.io/github/followers/kipngetich-ruto?logo=github&style=for-the-badge&color=brightgreen" /></a><a href="https://www.x.com/ruto365" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/ruto365?logo=twitter&style=for-the-badge&color=brightgreen"
 /></a>
