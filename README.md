@@ -30,3 +30,25 @@ Here are some ideas to get you started:
 src="https://img.shields.io/github/followers/kipngetich-ruto?logo=github&style=for-the-badge&color=brightgreen" /></a><a href="https://www.x.com/ruto365" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ruto365?logo=twitter&style=for-the-badge&color=brightgreen"
 /></a>
+
+
+**Languages:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+
+## My Github Stats
+[![](https://github-readme-stats-neon-tau-86.vercel.app/api?username=kipngetich-ruto)](https://github.com/kipngetich-ruto/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-neon-tau-86.vercel.app/api/top-langs/?username=kipngetich-ruto)](https://github.com/kipngetich-ruto/github-readme-stats)
+
+
+<!-- ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush-eon&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-eon&theme=tokyonight&layout=compact) -->
