@@ -1,4 +1,4 @@
-## Hi 👋, I'm Kipngetich Ruto
+<h1 align="center"> Hi 👋, I'm Kipngetich Ruto </h1>
 
 <!--
 **kipngetich-ruto/kipngetich-ruto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 * 🚀 Always eager to solve problems
 * ✉️ You can contact me at [ruto365@gmail.com](mailto:ruto36@gmail.com)
 * 🤝  I'm open for job opportunities and collaboration for both Front-End and Back-End
+
+<a href="https://www.github.com/kipngetich-ruto" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/kipngetich-ruto?logo=github&style=for-the-badge&color=0891b2&labelColor=brightgreen" /></a><a href="https://www.x.com/ruto365" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/ruto365?logo=twitter&style=for-the-badge&color=0891b2&labelColor=brightgreen"
+/></a>
