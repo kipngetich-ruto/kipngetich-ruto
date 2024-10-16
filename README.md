@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align='center'>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6437&width=435&lines=Full-stack+Web+Developer;Always+Learning+New+things;Open+for+Opportunities" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6437&width=435&lines=Full-stack+Web+Developer;Always+ready+to+Learn+new+Skills;Open+for+new+Opportunities" alt="Typing SVG" /></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=kipngetich-ruto&label=PROFILE+VIEWS&base=20&abbreviated=true&style=for-the-badge&color=brightgreen)
@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 * ✉️ You can contact me at [ruto365@gmail.com](mailto:ruto36@gmail.com)
 * 🤝  I'm open for job opportunities and collaboration for both Front-End and Back-End
 
-<a href="https://www.github.com/kipngetich-ruto" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kipngetich-ruto?logo=github&style=for-the-badge&color=brightgreen&labelColor=1c1917" /></a><a href="https://www.x.com/ruto365" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ruto365?logo=twitter&style=for-the-badge&color=brightgreen&labelColor=1c1917"
-/></a>
+<a href="https://www.github.com/kipngetich-ruto" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/kipngetich-ruto?logo=github&style=for-the-badge&color=brightgreen&labelColor=1c1917" />
+</a>
+<a href="https://www.x.com/ruto365" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/followers/ruto365?logo=twitter&style=for-the-badge&color=brightgreen&labelColor=1c1917"/>
+</a>
