@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.x.com/ruto365" target="_blank" rel="noreferrer">
     <!-- <img src="https://img.shields.io/twitter/follow/ruto365?logo=twitter&style=for-the-badge&color=brightgreen&labelColor=1c1917"/> -->
-    <img src='https://img.shields.io/twitter/follow/ruto365?style=for-the-badge&logo=twitter&color=brightgreen
-    '/>
+    <img src="https://img.shields.io/twitter/follow/ruto365?style=for-the-badge&logo=twitter&color=brightgreen
+    "/>
 </a>
