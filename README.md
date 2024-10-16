@@ -44,11 +44,7 @@ src="https://img.shields.io/twitter/follow/ruto365?logo=twitter&style=for-the-ba
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 
-## My Github Stats
-[![](https://github-readme-stats-neon-tau-86.vercel.app/api?username=kipngetich-ruto)](https://github.com/kipngetich-ruto/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-neon-tau-86.vercel.app/api/top-langs/?username=kipngetich-ruto)](https://github.com/kipngetich-ruto/github-readme-stats)
+[![Kipngetich's github stats](https://github-readme-stats.vercel.app/api?username=kipngetich-ruto&theme=tokyonight&show_icons=true)](https://github.com/kipngetich-ruto/github-readme-stats)
 
-
-<!-- ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush-eon&theme=tokyonight&show_icons=true&hide=["issues"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-eon&theme=tokyonight&layout=compact) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kipngetich-ruto&theme=tokyonight&layout=compact)](https://github.com/kipngetich-ruto/github-readme-stats)
