@@ -24,5 +24,7 @@ src="https://img.shields.io/twitter/follow/ruto365?logo=twitter&style=for-the-ba
 
 ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/postresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto)
 
+![Static Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Static Badge](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 <!-- [![Kipngetich's github stats](https://github-readme-stats.vercel.app/api?username=kipngetich-ruto&theme=tokyonight&show_icons=true)](https://github.com/kipngetich-ruto/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kipngetich-ruto&theme=tokyonight&layout=compact)](https://github.com/kipngetich-ruto/github-readme-stats) -->
