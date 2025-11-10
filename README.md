@@ -20,11 +20,11 @@ src="https://img.shields.io/twitter/follow/ruto365?logo=twitter&style=for-the-ba
 
 ![Static Badge](https://img.shields.io/badge/Js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto) ![Static Badge](https://img.shields.io/badge/ts-%233178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&logoSize=auto) ![Static Badge](https://img.shields.io/badge/next-%23000000?style=for-the-badge&logo=next.js&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoSize=auto)
 
-![Static Badge](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white&logoSize=auto)
-
 ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/postresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto)
 
 ![Static Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Static Badge](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+![Static Badge](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white&logoSize=auto)
 
 <!-- [![Kipngetich's github stats](https://github-readme-stats.vercel.app/api?username=kipngetich-ruto&theme=tokyonight&show_icons=true)](https://github.com/kipngetich-ruto/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kipngetich-ruto&theme=tokyonight&layout=compact)](https://github.com/kipngetich-ruto/github-readme-stats) -->
