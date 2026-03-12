@@ -8,7 +8,7 @@
 
 * 👨‍💻 Full-Stack with ❤️ for React Js for Front-End
 * 🚀 Always eager to solve problems
-* ✉️ You can contact me at [ruto365@gmail.com](mailto:ruto36@gmail.com)
+* 📫 Connect with me on LinkedIn:[linkedin.com/in/kipngetich-ruto](https://linkedin.com/in/kipngetich-ruto)
 * 🤝  I'm open for job opportunities and collaboration for both Front-End and Back-End
 
 <a href="https://www.github.com/kipngetich-ruto" target="_blank" rel="noreferrer"><img
