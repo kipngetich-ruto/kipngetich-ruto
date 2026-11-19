@@ -21,7 +21,7 @@ Founder of HasafSec Cyber Solutions, helping small businesses and agencies find 
 ## 👨‍💻 About Me
 
 - 🔐 Backend engineer with a security focus: Python, TypeScript and application security
-- 🎓 MSc Information Security Candidate
+- 🎓 Studying MSc Information Security at USIU-Africa (Jan 2026 – Dec 2027)
 - 💻 5+ years of experience building web applications
 - ☁️ Interested in Cloud Security, Application Security and DevSecOps
 - 🚀 Founder & Lead Engineer at HasafSec Cyber Solutions, building [WebGuard](https://webguard.hasafsec.com)
@@ -72,10 +72,6 @@ Founder of HasafSec Cyber Solutions, helping small businesses and agencies find 
 <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,terraform,vercel,linux,nginx" />
 </p>
 
-### AI-Assisted Development
-
-- Claude Code and Codex, working under written repo rules
-
 ### Security
 
 <p>
@@ -84,7 +80,7 @@ Founder of HasafSec Cyber Solutions, helping small businesses and agencies find 
 - Nuclei, httpx, dnsx, tlsx
 - Gitleaks and Trivy (secret and dependency scanning)
 - Burp Suite (building proficiency)
-- Elastic Stack for SIEM (MSc coursework)
+- Elastic Stack for SIEM 
 - Threat modelling and secure SDLC
 - API security, SSRF prevention, MFA and OAuth
 - SSL/TLS, DNS and email-authentication analysis
@@ -107,15 +103,6 @@ External exposure monitoring for verified domains, built and run through HasafSe
 - Card and M-Pesa webhook billing
 - GitHub Actions with tests, Gitleaks and Trivy on every change; blue/green deploys with an AWS EC2 warm standby via OIDC
 - **Stack:** Next.js 16, FastAPI, Celery, Redis, PostgreSQL 18, Docker, Terraform
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kipngetich-ruto&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kipngetich-ruto&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
