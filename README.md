@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kipngetich Ruto</h1>
 
 <h3 align="center">
-Cybersecurity Engineer | Full-Stack Developer
+Backend Engineer · Security-Focused
 </h3>
 
 <p align="center">
-Building secure cloud applications, modern web platforms, and security-focused software.
+Founder of HasafSec Cyber Solutions, helping small businesses and agencies find and fix what's exposed on their websites, domains and email setup. I build WebGuard, a multi-tenant exposure monitoring platform.
 </p>
 
 <p align="center">
@@ -20,11 +20,11 @@ Building secure cloud applications, modern web platforms, and security-focused s
 
 ## 👨‍💻 About Me
 
-- 🔐 Cybersecurity Engineer and Full-Stack Developer
+- 🔐 Backend engineer with a security focus: Python, TypeScript and application security
 - 🎓 MSc Information Security Candidate
 - 💻 5+ years of experience building web applications
 - ☁️ Interested in Cloud Security, Application Security and DevSecOps
-- 🚀 Building security-focused software through HasafSec Cyber Solutions
+- 🚀 Founder & Lead Engineer at HasafSec Cyber Solutions, building [WebGuard](https://webguard.hasafsec.com)
 - 🌍 Open to Security Engineering, Cloud Security and Full-Stack opportunities
 
 ---
@@ -45,7 +45,7 @@ Building secure cloud applications, modern web platforms, and security-focused s
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,bash" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
 </p>
 
 ### Frontend
@@ -57,7 +57,7 @@ Building secure cloud applications, modern web platforms, and security-focused s
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
 ### Databases
@@ -69,22 +69,26 @@ Building secure cloud applications, modern web platforms, and security-focused s
 ### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,terraform,vercel,linux,nginx" />
 </p>
+
+### AI-Assisted Development
+
+- Claude Code and Codex, working under written repo rules
 
 ### Security
 
 <p>
 
 - OWASP Top 10
-- Nuclei
-- Wazuh
-- Suricata
-- Wireshark
-- Nmap
-- SSL/TLS Security
-- Security Headers
-- Vulnerability Assessment
+- Nuclei, httpx, dnsx, tlsx
+- Gitleaks and Trivy (secret and dependency scanning)
+- Burp Suite (building proficiency)
+- Elastic Stack for SIEM (MSc coursework)
+- Threat modelling and secure SDLC
+- API security, SSRF prevention, MFA and OAuth
+- SSL/TLS, DNS and email-authentication analysis
+- Vulnerability assessment and triage
 
 </p>
 
@@ -92,7 +96,17 @@ Building secure cloud applications, modern web platforms, and security-focused s
 
 ## 📌 Featured Work
 
-I enjoy building secure, scalable software that combines modern engineering practices with cybersecurity principles. My work includes full-stack applications, APIs, automation, security tooling, and vulnerability management solutions.
+### [WebGuard](https://webguard.hasafsec.com) · live since Feb 2026
+
+External exposure monitoring for verified domains, built and run through HasafSec as the sole engineer.
+
+- Pinned ProjectDiscovery scanners (Nuclei, httpx, dnsx, tlsx) plus native DNS, email and header checks; findings are deduplicated and ranked, with a score out of 100 per site
+- HMAC-signed internal service calls with Redis-backed replay protection, and SSRF vetting of every scan target
+- Transactional outbox for restart-safe scan dispatch; finding lifecycle tracking (new, resolved, reopened, accepted risk)
+- Team roles, MFA, OAuth sign-in, domain verification, audit logs and PDF reports with SHA-256 integrity hashes
+- Card and M-Pesa webhook billing
+- GitHub Actions with tests, Gitleaks and Trivy on every change; blue/green deploys with an AWS EC2 warm standby via OIDC
+- **Stack:** Next.js 16, FastAPI, Celery, Redis, PostgreSQL 18, Docker, Terraform
 
 ---
 
