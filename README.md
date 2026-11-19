@@ -9,7 +9,7 @@ Founder of HasafSec Cyber Solutions, helping small businesses and agencies find 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=650&lines=Cybersecurity+Engineer;Full-Stack+Developer;Cloud+Security+Enthusiast;Application+Security;Secure+Software+Development;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=650&lines=Backend+Engineer;Security-Focused;Application+Security;Secure+Software+Development;Python+%26+TypeScript;Building+WebGuard" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -122,16 +122,6 @@ External exposure monitoring for verified domains, built and run through HasafSe
 
 ---
 
-## 🌱 Currently Learning
-
-- AWS Cloud Security
-- Kubernetes
-- Infrastructure as Code
-- Threat Detection Engineering
-- Security Architecture
-
----
-
 ## 🤝 Let's Connect
 
 <p align="left">
@@ -141,10 +131,6 @@ External exposure monitoring for verified domains, built and run through HasafSe
 
 <a href="https://github.com/kipngetich-ruto" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="mailto:ruto.kipngetich3@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
 
