@@ -96,11 +96,10 @@ Founder of HasafSec Cyber Solutions, helping small businesses and agencies find 
 
 External exposure monitoring for verified domains, built and run through HasafSec as the sole engineer.
 
-- Pinned ProjectDiscovery scanners (Nuclei, httpx, dnsx, tlsx) plus native DNS, email and header checks; findings are deduplicated and ranked, with a score out of 100 per site
 - HMAC-signed internal service calls with Redis-backed replay protection, and SSRF vetting of every scan target
 - Transactional outbox for restart-safe scan dispatch; finding lifecycle tracking (new, resolved, reopened, accepted risk)
 - Team roles, MFA, OAuth sign-in, domain verification, audit logs and PDF reports with SHA-256 integrity hashes
-- Card and M-Pesa webhook billing
+- Payment Intergration
 - GitHub Actions with tests, Gitleaks and Trivy on every change; blue/green deploys with an AWS EC2 warm standby via OIDC
 - **Stack:** Next.js 16, FastAPI, Celery, Redis, PostgreSQL 18, Docker, Terraform
 
